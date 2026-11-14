@@ -1,0 +1,8 @@
+httpx
+pandas
+matplotlib
+tenacity
+python-dotenv
+pyarrow
+pillow
+anthropic
